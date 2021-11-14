@@ -40,6 +40,12 @@
       <FileType>.kvk</FileType>
     </File>
     <File>
+      <Name>readme.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
       <Name>welcome\mon_anonta.png</Name>
       <Description>File mon_anonta.png</Description>
       <CopyLocation>0</CopyLocation>
