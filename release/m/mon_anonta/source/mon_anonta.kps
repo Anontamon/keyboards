@@ -6,7 +6,7 @@
   </System>
   <Options>
     <ExecuteProgram></ExecuteProgram>
-    <MSIFileName></MSIFileName>
+    <MSIFileName>readme.htm</MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
   </Options>
@@ -38,6 +38,12 @@
       <Description></Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description>File readme.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
     </File>
     <File>
       <Name>welcome\mon_anonta.png</Name>
